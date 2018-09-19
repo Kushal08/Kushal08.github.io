@@ -14,7 +14,7 @@ Education
 * 10th, Rajasthan Board of Secondary Education, 2010
   * Percentage - 88%
 * 12th, Rajasthan Board of Secondary Education, 2012
-  * Percentage - 88%
+  * Percentage - 85.80%
 * B.Tech(CSE), IIIT Vadodara, 2017
   * CGPA - 8.5
 * M.Tech(CSE), NIT Surat, 2019
