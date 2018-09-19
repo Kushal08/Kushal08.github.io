@@ -11,19 +11,24 @@ redirect_from:
 
 Education
 ======
-* 88%    - 10th, Rajasthan Secondary Board of Education, 2010
-* 85.80% - 12th, Rajasthan Secondary Board of Education, 2012
-* 8.5    - B.tech, CSE, IIIT Vadodara, 2017
-* 9.67   - M.tech, CSE, NIT Surat, 2019
+* 10th, Rajasthan Board of Secondary Education, 2010
+  * Percentage - 88%
+* 12th, Rajasthan Board of Secondary Education, 2012
+  * Percentage - 88%
+* B.Tech(CSE), IIIT Vadodara, 2017
+  * CGPA - 8.5
+* M.Tech(CSE), NIT Surat, 2019
+  * CGPA - 9.67
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, C, C++, PHP, MySQL, Android.
+* Tools
+  * MATLAB, PgAdmin3.
+* Interests
+  * Network Security, Machine learning.
+  
 
 Publications
 ======
