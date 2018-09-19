@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 88%    - 10th, Rajasthan Secondary Board of Education, 2010
+* 85.80% - 12th, Rajasthan Secondary Board of Education, 2012
+* 8.5    - B.tech, CSE, IIIT Vadodara, 2017
+* 9.67   - M.tech, CSE, NIT Surat, 2019
   
 Skills
 ======
