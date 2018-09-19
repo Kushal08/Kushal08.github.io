@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-"what did beckett say ?" 2 <br/><img src='/images/backet.png'>
+"what did beckett say ?" <br/><img src='/images/site-logo.png'>
