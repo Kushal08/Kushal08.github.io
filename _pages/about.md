@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "What did the beckett say ?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-"what did beckett say ?" <br/><img src='/images/site-logo.png'>
+<br/><img src='/images/site-logo.png'>
