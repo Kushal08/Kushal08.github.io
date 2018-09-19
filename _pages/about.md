@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/backet.png'>
+<br/><img src='/images/becket.png'>
