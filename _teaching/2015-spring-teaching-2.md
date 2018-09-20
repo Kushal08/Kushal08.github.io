@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Devops Intern"
 collection: teaching
-type: "Workshop"
+type: "GE Healthcare, Bangalore"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: ""
+date: 2018-06-04
+location: "Bangalore, India"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
