@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Research Intern, Indian Statistical Institute Kolkata"
 collection: teaching
-type: "Undergraduate course"
+type: "Mentor: Dr. Mridul Nandi, Applied Statistics Unit"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: ""
+date: 2016-05-24
+location: "Kolkata, India"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
